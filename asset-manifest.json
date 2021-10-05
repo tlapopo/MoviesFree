@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/MoviesFree/static/css/main.b914cb90.chunk.css",
-    "main.js": "/MoviesFree/static/js/main.47116c47.chunk.js",
-    "main.js.map": "/MoviesFree/static/js/main.47116c47.chunk.js.map",
+    "main.js": "/MoviesFree/static/js/main.99d0461a.chunk.js",
+    "main.js.map": "/MoviesFree/static/js/main.99d0461a.chunk.js.map",
     "runtime-main.js": "/MoviesFree/static/js/runtime-main.e4d04b2e.js",
     "runtime-main.js.map": "/MoviesFree/static/js/runtime-main.e4d04b2e.js.map",
     "static/js/2.67a4efef.chunk.js": "/MoviesFree/static/js/2.67a4efef.chunk.js",
     "static/js/2.67a4efef.chunk.js.map": "/MoviesFree/static/js/2.67a4efef.chunk.js.map",
     "index.html": "/MoviesFree/index.html",
-    "precache-manifest.b4579d9894deecc8df34dc6dfd60d321.js": "/MoviesFree/precache-manifest.b4579d9894deecc8df34dc6dfd60d321.js",
+    "precache-manifest.6aa88eff16cbb07972ea95da59c7d040.js": "/MoviesFree/precache-manifest.6aa88eff16cbb07972ea95da59c7d040.js",
     "service-worker.js": "/MoviesFree/service-worker.js",
     "static/css/main.b914cb90.chunk.css.map": "/MoviesFree/static/css/main.b914cb90.chunk.css.map",
     "static/js/2.67a4efef.chunk.js.LICENSE.txt": "/MoviesFree/static/js/2.67a4efef.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.e4d04b2e.js",
     "static/js/2.67a4efef.chunk.js",
     "static/css/main.b914cb90.chunk.css",
-    "static/js/main.47116c47.chunk.js"
+    "static/js/main.99d0461a.chunk.js"
   ]
 }
