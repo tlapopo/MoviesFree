@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "git%20remote%20add%20origin%20https://tlapopo.github.com/MoviesFree/static/css/main.b914cb90.chunk.css",
+    "main.js": "git%20remote%20add%20origin%20https://tlapopo.github.com/MoviesFree/static/js/main.cbd9e293.chunk.js",
+    "main.js.map": "git%20remote%20add%20origin%20https://tlapopo.github.com/MoviesFree/static/js/main.cbd9e293.chunk.js.map",
+    "runtime-main.js": "git%20remote%20add%20origin%20https://tlapopo.github.com/MoviesFree/static/js/runtime-main.1ba1f8ef.js",
+    "runtime-main.js.map": "git%20remote%20add%20origin%20https://tlapopo.github.com/MoviesFree/static/js/runtime-main.1ba1f8ef.js.map",
+    "static/js/2.67a4efef.chunk.js": "git%20remote%20add%20origin%20https://tlapopo.github.com/MoviesFree/static/js/2.67a4efef.chunk.js",
+    "static/js/2.67a4efef.chunk.js.map": "git%20remote%20add%20origin%20https://tlapopo.github.com/MoviesFree/static/js/2.67a4efef.chunk.js.map",
+    "index.html": "git%20remote%20add%20origin%20https://tlapopo.github.com/MoviesFree/index.html",
+    "precache-manifest.0d5c5a41a85019b97816fcd610022347.js": "git%20remote%20add%20origin%20https://tlapopo.github.com/MoviesFree/precache-manifest.0d5c5a41a85019b97816fcd610022347.js",
+    "service-worker.js": "git%20remote%20add%20origin%20https://tlapopo.github.com/MoviesFree/service-worker.js",
+    "static/css/main.b914cb90.chunk.css.map": "git%20remote%20add%20origin%20https://tlapopo.github.com/MoviesFree/static/css/main.b914cb90.chunk.css.map",
+    "static/js/2.67a4efef.chunk.js.LICENSE.txt": "git%20remote%20add%20origin%20https://tlapopo.github.com/MoviesFree/static/js/2.67a4efef.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1ba1f8ef.js",
+    "static/js/2.67a4efef.chunk.js",
+    "static/css/main.b914cb90.chunk.css",
+    "static/js/main.cbd9e293.chunk.js"
+  ]
+}
