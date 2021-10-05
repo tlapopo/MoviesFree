@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "git%20remote%20add%20origin%20https://tlapopo.github.io/MoviesFree/static/css/main.b914cb90.chunk.css",
-    "main.js": "git%20remote%20add%20origin%20https://tlapopo.github.io/MoviesFree/static/js/main.ba56ae4c.chunk.js",
-    "main.js.map": "git%20remote%20add%20origin%20https://tlapopo.github.io/MoviesFree/static/js/main.ba56ae4c.chunk.js.map",
-    "runtime-main.js": "git%20remote%20add%20origin%20https://tlapopo.github.io/MoviesFree/static/js/runtime-main.e4c1bcbc.js",
-    "runtime-main.js.map": "git%20remote%20add%20origin%20https://tlapopo.github.io/MoviesFree/static/js/runtime-main.e4c1bcbc.js.map",
-    "static/js/2.67a4efef.chunk.js": "git%20remote%20add%20origin%20https://tlapopo.github.io/MoviesFree/static/js/2.67a4efef.chunk.js",
-    "static/js/2.67a4efef.chunk.js.map": "git%20remote%20add%20origin%20https://tlapopo.github.io/MoviesFree/static/js/2.67a4efef.chunk.js.map",
-    "index.html": "git%20remote%20add%20origin%20https://tlapopo.github.io/MoviesFree/index.html",
-    "precache-manifest.27592ffb00b7abc435d2b05223149edc.js": "git%20remote%20add%20origin%20https://tlapopo.github.io/MoviesFree/precache-manifest.27592ffb00b7abc435d2b05223149edc.js",
-    "service-worker.js": "git%20remote%20add%20origin%20https://tlapopo.github.io/MoviesFree/service-worker.js",
-    "static/css/main.b914cb90.chunk.css.map": "git%20remote%20add%20origin%20https://tlapopo.github.io/MoviesFree/static/css/main.b914cb90.chunk.css.map",
-    "static/js/2.67a4efef.chunk.js.LICENSE.txt": "git%20remote%20add%20origin%20https://tlapopo.github.io/MoviesFree/static/js/2.67a4efef.chunk.js.LICENSE.txt"
+    "main.css": "/MoviesFree/static/css/main.b914cb90.chunk.css",
+    "main.js": "/MoviesFree/static/js/main.47116c47.chunk.js",
+    "main.js.map": "/MoviesFree/static/js/main.47116c47.chunk.js.map",
+    "runtime-main.js": "/MoviesFree/static/js/runtime-main.e4d04b2e.js",
+    "runtime-main.js.map": "/MoviesFree/static/js/runtime-main.e4d04b2e.js.map",
+    "static/js/2.67a4efef.chunk.js": "/MoviesFree/static/js/2.67a4efef.chunk.js",
+    "static/js/2.67a4efef.chunk.js.map": "/MoviesFree/static/js/2.67a4efef.chunk.js.map",
+    "index.html": "/MoviesFree/index.html",
+    "precache-manifest.b4579d9894deecc8df34dc6dfd60d321.js": "/MoviesFree/precache-manifest.b4579d9894deecc8df34dc6dfd60d321.js",
+    "service-worker.js": "/MoviesFree/service-worker.js",
+    "static/css/main.b914cb90.chunk.css.map": "/MoviesFree/static/css/main.b914cb90.chunk.css.map",
+    "static/js/2.67a4efef.chunk.js.LICENSE.txt": "/MoviesFree/static/js/2.67a4efef.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.e4c1bcbc.js",
+    "static/js/runtime-main.e4d04b2e.js",
     "static/js/2.67a4efef.chunk.js",
     "static/css/main.b914cb90.chunk.css",
-    "static/js/main.ba56ae4c.chunk.js"
+    "static/js/main.47116c47.chunk.js"
   ]
 }
